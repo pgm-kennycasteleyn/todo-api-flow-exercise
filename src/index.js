@@ -13,6 +13,8 @@ import middleware from './middleware/index.js';
 // create a new express application
 const app = Express();
 
+// magic
+
 // init dotenv
 dotenv.config();
 
